@@ -5,7 +5,6 @@
 ### Verificando status 
  git status //verificar status do git
 ### Crie o repositorio remoto e execute os comando abaixo. 
- echo "# git" >> README.md Ou qualquer outro arquivo
  git init // Cria um repositorio local
  git add README.md // Marca os arquivos para o repositorio
  git commit -m "first commit" //salva suas alterações no repositório local e adicina uma mensagem
